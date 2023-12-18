@@ -1,0 +1,5 @@
+# Node modules
+FrontEnd/interfaz_cnn/node_modules/
+
+# Python virtual environment
+Backend/venv/
