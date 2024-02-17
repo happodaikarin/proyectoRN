@@ -1,0 +1,325 @@
+Session_id,User_id,Product_id,Interaction_type,Date_and_time,Duration,Ratings,Comments
+1,1,1,Purchase,2024-03-01 09:30:00,120,5,"Espresso's intense and robust flavor is exactly what I need to start my day."
+2,2,27,View,2024-03-01 14:45:00,180,,,null
+3,3,68,Purchase,2024-03-02 18:00:00,180,5,"The 3 Cordilleras Blanca is light and has a smooth finish, perfect for a quiet evening."
+4,4,12,View,2024-03-02 10:15:00,60,,,null
+5,5,60,Purchase,2024-03-03 12:30:00,120,5,"The French fries were crispy and perfectly salted. An excellent side for any meal."
+6,1,58,Purchase,2024-03-03 13:00:00,180,5,"Buffalo Wings are incredibly tasty, with just the right level of spice. Will definitely order again."
+7,2,31,View,2024-03-04 15:30:00,240,,,null
+8,3,90,Purchase,2024-03-04 17:45:00,180,5,"Delirium Tremens has a complexity and body that never disappoint. It's one of my favorite beers."
+9,4,7,View,2024-03-05 09:00:00,120,,,null
+10,5,65,Purchase,2024-03-05 19:00:00,240,5,"The Lemon Tart is the perfect balance between sweet and tart. The crust is crispy and complements the filling wonderfully."
+11,1,4,View,2024-03-06 08:45:00,120,,,null
+12,2,35,Purchase,2024-03-06 14:00:00,180,4,"The Passion Fruit Smoothie has an intense tropical flavor that's refreshing. Ideal for hot days."
+13,3,74,Purchase,2024-03-07 18:30:00,240,5,"The BBC Monserrate is smooth and has a pleasant taste that goes well with almost everything."
+14,4,9,Purchase,2024-03-07 10:00:00,60,5,"The Oreo Moccaccino is my favorite sweet sin. The combination of coffee, chocolate, and Oreo is irresistible."
+15,5,49,Purchase,2024-03-08 13:15:00,180,5,"Chicken Wings are juicy on the inside and crispy on the outside. Perfect with any sauce."
+16,1,62,Purchase,2024-03-08 20:00:00,120,5,"Jalapeño Poppers are the perfect snack for those who love a spicy kick. The cheese perfectly softens the jalapeño's punch."
+17,2,26,View,2024-03-09 15:20:00,240,,,null
+18,3,71,Purchase,2024-03-09 17:00:00,180,4,"The 3 Cordilleras Rosada is interesting, with a fruity twist I didn't expect. Good for a change."
+19,4,6,View,2024-03-10 09:30:00,120,,,null
+20,5,63,Purchase,2024-03-10 20:30:00,240,5,"Pretzel Bites are addictive. The crispy exterior with a touch of salt is the perfect beer accompaniment."
+21,101,3,Purchase,2024-03-11 08:45:00,90,4,"Country Coffee was comforting, though a tad sweet for my taste."
+22,102,15,View,2024-03-11 10:30:00,75,,,null
+23,103,27,Purchase,2024-03-12 12:15:00,105,5,"Natural Lemonade was the perfect refreshment. Loved the natural taste."
+24,104,68,View,2024-03-12 14:00:00,60,,,null
+25,105,12,Purchase,2024-03-13 09:20:00,80,5,"Hot Milo is my go-to comfort drink. Perfectly warm and chocolatey."
+26,106,90,Purchase,2024-03-13 16:45:00,110,5,"Delirium Tremens never disappoints. Its complexity is unmatched."
+27,107,31,View,2024-03-14 15:30:00,65,,,null
+28,108,7,Purchase,2024-03-14 18:00:00,95,4,"Caramel Cappuccino was delicious, but could use a bit more caramel."
+29,109,49,View,2024-03-15 12:45:00,70,,,null
+30,110,65,Purchase,2024-03-15 19:30:00,85,5,"Lemon Tart was divine. The perfect balance of tart and sweet."
+31,111,4,Purchase,2024-03-16 08:30:00,100,3,"American Coffee is decent, but lacks the richness I prefer."
+32,112,35,View,2024-03-16 13:15:00,55,,,null
+33,113,74,Purchase,2024-03-17 17:50:00,120,5,"BBC Monserrate's smooth taste pairs well with any dish."
+34,114,9,Purchase,2024-03-17 10:05:00,65,5,"Oreo Moccaccino is irresistibly good. The perfect treat."
+35,115,49,Purchase,2024-03-18 12:30:00,105,4,"Chicken Wings were good, but a bit too greasy for my liking."
+36,116,62,View,2024-03-18 20:20:00,50,,,null
+37,117,26,Purchase,2024-03-19 15:10:00,90,4,"Cappuccino Frappé was creamy and refreshing, a great pick-me-up."
+38,118,71,View,2024-03-19 17:45:00,85,,,null
+39,119,6,Purchase,2024-03-20 09:00:00,75,5,"Cappuccino was perfectly made, with just the right amount of foam."
+40,120,63,View,2024-03-20 20:30:00,80,,,null
+41,121,5,Purchase,2024-03-21 09:15:00,95,5,"Irish Coffee is a delightful treat, love the whiskey flavor."
+42,122,16,View,2024-03-21 11:20:00,85,,,null
+43,123,28,Purchase,2024-03-22 14:10:00,105,4,"Mint Lemonade was refreshing, but could use more mint."
+44,124,69,Purchase,2024-03-22 16:55:00,115,5,"3 Cordilleras Mulata has a deep, rich flavor. Fantastic beer."
+45,125,13,View,2024-03-23 10:30:00,75,,,null
+46,126,37,Purchase,2024-03-23 18:05:00,90,5,"Lulo Italian Soda was surprisingly refreshing. A new favorite."
+47,127,8,Purchase,2024-03-24 09:40:00,100,4,"Moccaccino is chocolatey goodness. Just the right sweetness."
+48,128,50,View,2024-03-24 12:55:00,60,,,null
+49,129,66,Purchase,2024-03-25 13:25:00,110,5,"Panna Cotta was silky smooth. The vanilla flavor shines through."
+50,130,9,View,2024-03-25 19:45:00,70,,,null
+51,131,20,Purchase,2024-03-26 08:50:00,80,4,"Café Nevado is a nice cold coffee drink, but a bit mild for me."
+52,132,34,Purchase,2024-03-26 14:35:00,95,5,"Berry Smoothie is delicious. The perfect mix of berries."
+53,133,72,Purchase,2024-03-27 17:20:00,105,4,"BBC Rubia Lager is light and easy to drink. Good for a casual sip."
+54,134,12,View,2024-03-27 09:55:00,65,,,null
+55,135,38,Purchase,2024-03-28 12:40:00,85,5,"Quesadillas were cheesy and delicious. Loved the chicken filling."
+56,136,6,Purchase,2024-03-28 18:15:00,90,5,"Cappuccino is perfect every time. Love the foam art."
+57,137,21,Purchase,2024-03-29 08:35:00,75,3,"Moccaccino Nevado was okay, but not as chocolatey as I hoped."
+58,138,45,Purchase,2024-03-29 13:50:00,110,4,"House Burger is hearty and satisfying. The beef is top quality."
+59,139,73,Purchase,2024-03-30 17:45:00,120,5,"BBC Mestiza has a unique fruity flavor that I really enjoy."
+60,140,10,View,2024-03-30 10:10:00,80,,,null
+61,141,24,Purchase,2024-03-31 09:20:00,85,4,"Caramel Coffee Nevado is sweet and refreshing. A nice treat."
+62,142,36,Purchase,2024-03-31 15:30:00,100,5,"Blackberry Italian Soda is delightful. Sweet and fizzy."
+63,143,51,Purchase,2024-04-01 12:45:00,95,5,"Spring Rolls were light and crispy. The dipping sauce is a perfect match."
+64,144,7,Purchase,2024-04-01 18:00:00,90,4,"Caramel Cappuccino is good but needs a stronger coffee flavor."
+65,145,18,View,2024-04-02 11:15:00,70,,,null
+66,146,39,Purchase,2024-04-02 14:00:00,105,5,"Brittany Soda is crisp and refreshing. A great palate cleanser."
+67,147,53,Purchase,2024-04-03 09:30:00,80,4,"Cheese Fingers are a fun snack, though a bit plain alone."
+68,148,11,Purchase,2024-04-03 16:45:00,115,5,"Carajillo offers a unique flavor. The liqueur adds a nice kick."
+69,149,25,Purchase,2024-04-04 12:10:00,100,5,"Café Milkshake is creamy and indulgent. The coffee flavor is spot on."
+70,150,40,View,2024-04-04 19:20:00,85,,,null
+71,151,54,Purchase,2024-04-05 08:55:00,95,3,"Chicken Wings were a bit too spicy for my taste, but still good."
+72,152,67,Purchase,2024-04-05 13:40:00,110,4,"Mozzarella Sticks are always a hit. Crispy outside, gooey inside."
+73,153,19,Purchase,2024-04-06 17:30:00,105,5,"Caramel Coffee Slush is the perfect summer drink. Sweet and icy."
+74,154,32,Purchase,2024-04-06 10:05:00,90,4,"Mango Lemonade is sweet and refreshing. A bit too sweet for me though."
+75,155,46,Purchase,2024-04-07 12:50:00,85,5,"Tacos are flavorful and authentic. The cilantro adds a fresh touch."
+76,156,8,View,2024-04-07 18:25:00,75,,,null
+77,157,55,Purchase,2024-04-08 09:00:00,95,4,"Open-Faced Sandwiches are a delightful breakfast option. Very satisfying."
+78,158,70,Purchase,2024-04-08 14:15:00,100,5,"3 Cordilleras Negra is dark, rich, and exactly what I look for in a stout."
+79,159,23,Purchase,2024-04-09 12:30:00,85,3,"Milo Nevado was a bit too sweet for me, but the kids would love it."
+80,160,56,Purchase,2024-04-09 19:00:00,90,4,"Shrimp Ceviche is fresh and zesty. Perfectly balanced flavors."
+81,161,41,Purchase,2024-04-10 08:45:00,105,5,"Potato Chips are crunchy and just salty enough. Great for snacking."
+82,162,57,Purchase,2024-04-10 13:20:00,110,4,"Buffalo Chicken Wings are a great mix of spicy and tangy. Very tasty."
+83,163,22,Purchase,2024-04-11 17:55:00,95,4,"Oreo Moccaccino Nevado was a fun treat. The oreo pieces add a nice crunch."
+84,164,48,Purchase,2024-04-11 10:30:00,100,5,"Onion Rings are the perfect side. Crispy, flavorful, and not too greasy."
+85,165,64,Purchase,2024-04-12 12:40:00,85,5,"Garlic Parmesan Wings are my new favorite. The garlic parmesan sauce is addictive."
+86,166,29,Purchase,2024-04-12 18:10:00,90,3,"Coconut Lemonade was interesting but the coconut flavor overpowered the lemonade."
+87,167,42,Purchase,2024-04-13 09:20:00,95,4,"BBQ Ribs are tender and the BBQ sauce has a nice smoky flavor."
+88,168,59,Purchase,2024-04-13 14:00:00,105,5,"Affogato is a perfect dessert. The hot espresso over cold ice cream is divine."
+89,169,33,Purchase,2024-04-14 17:45:00,110,4,"Passion Fruit Smoothie was good, but I expected more passion fruit flavor."
+90,170,17,View,2024-04-14 11:00:00,80,,,null
+91,171,12,Purchase,2024-04-15 08:30:00,100,4,
+92,172,34,View,2024-04-15 10:15:00,90,,,null
+93,173,44,Purchase,2024-04-16 13:45:00,85,5,
+94,174,57,View,2024-04-16 15:30:00,75,,,null
+95,175,23,Purchase,2024-04-17 09:00:00,95,4,
+96,176,8,Purchase,2024-04-17 12:20:00,110,5,"Absolutely love the Moccaccino, perfect blend of coffee and chocolate."
+97,177,65,View,2024-04-18 14:05:00,65,,,null
+98,178,29,Purchase,2024-04-18 16:50:00,90,3,
+99,179,47,View,2024-04-19 11:10:00,80,,,null
+100,180,9,Purchase,2024-04-19 13:25:00,105,5,"The Oreo Moccaccino is a delightful treat, a must-try for everyone."
+101,181,27,Purchase,2024-04-20 08:40:00,95,4,
+102,182,39,View,2024-04-20 10:55:00,85,,,null
+103,183,56,Purchase,2024-04-21 12:30:00,100,5,"Shrimp Ceviche was fresh and flavorful, a perfect light lunch."
+104,184,63,View,2024-04-21 14:45:00,70,,,null
+105,185,20,Purchase,2024-04-22 09:15:00,110,4,
+106,186,41,Purchase,2024-04-22 11:50:00,85,3,"Potato Chips were a bit too salty for my liking."
+107,187,58,View,2024-04-23 13:10:00,95,,,null
+108,188,33,Purchase,2024-04-23 15:55:00,90,4,
+109,189,50,Purchase,2024-04-24 09:20:00,105,5,"Cheese Sticks were perfectly crispy and gooey, a great snack."
+110,190,15,View,2024-04-24 12:05:00,80,,,null
+111,191,28,Purchase,2024-04-25 14:30:00,100,4,"Mint Lemonade could use a bit more mint but was refreshing nonetheless."
+112,192,43,Purchase,2024-04-25 16:40:00,85,5,
+113,193,9,Purchase,2024-04-26 10:15:00,90,4,
+114,194,67,View,2024-04-26 13:00:00,75,,,null
+115,195,31,Purchase,2024-04-27 15:45:00,110,3,"Coffee Lemonade is an interesting concept but not to my taste."
+116,196,49,View,2024-04-27 17:30:00,65,,,null
+117,197,54,Purchase,2024-04-28 09:05:00,95,4,
+118,198,11,Purchase,2024-04-28 11:55:00,100,5,"Carajillo offers a perfect blend of coffee and liqueur. Exceptional."
+119,199,60,View,2024-04-29 14:10:00,85,,,null
+120,200,22,Purchase,2024-04-29 16:25:00,90,4,
+121,201,37,Purchase,2024-04-30 08:35:00,105,5,"Lulo Italian Soda was a pleasant surprise. Refreshing and unique."
+122,202,46,Purchase,2024-04-30 10:50:00,80,4,
+123,203,3,Purchase,2024-05-01 12:15:00,95,5,"Country Coffee has a homey taste, just like I prefer."
+124,204,18,View,2024-05-01 14:30:00,70,,,null
+125,205,52,Purchase,2024-05-02 09:00:00,110,4,
+126,206,61,View,2024-05-02 11:45:00,85,,,null
+127,207,26,Purchase,2024-05-03 13:20:00,90,3,"Cappuccino Frappé was okay, but I expected a stronger coffee flavor."
+128,208,70,Purchase,2024-05-03 15:35:00,100,5,"3 Cordilleras Negra is my go-to beer. Rich and satisfying."
+129,209,34,View,2024-05-04 08:55:00,75,,,null
+130,210,48,Purchase,2024-05-04 10:40:00,105,4,"Onion Rings were a hit. Perfectly crispy without being greasy."
+131,211,7,Purchase,2024-05-05 12:05:00,85,5,"Caramel Cappuccino is my favorite. The caramel is not overpowering."
+132,212,21,View,2024-05-05 14:20:00,65,,,null
+133,213,55,Purchase,2024-05-06 09:30:00,95,4,
+134,214,64,Purchase,2024-05-06 11:15:00,110,5,"Garlic Parmesan Wings are amazing. The flavor is spot on."
+135,215,38,View,2024-05-07 13:00:00,90,,,null
+136,216,12,Purchase,2024-05-07 15:45:00,100,5,"Hot Milo is always a comforting choice. Perfectly warm."
+137,217,27,Purchase,2024-05-08 08:20:00,85,4,
+138,218,44,View,2024-05-08 10:35:00,80,,,null
+139,219,59,Purchase,2024-05-09 12:10:00,95,5,"Affogato is an indulgence I can't resist. Perfectly balanced."
+140,220,20,View,2024-05-09 14:25:00,70,,,null
+301,201,105,Purchase,2024-02-01 10:00:00,180,5,"I really enjoyed this black beer. Its rich and roasted flavor was perfect for unwinding after a long day."
+302,202,106,Review,2024-02-01 11:30:00,120,4,"The blonde beer I tried was quite pleasant. Its light and refreshing taste made it easy to enjoy on a warm afternoon."
+303,203,107,View,2024-02-01 12:45:00,60,,NULL
+304,204,108,View,2024-02-01 13:30:00,30,,NULL
+305,205,109,Purchase,2024-02-01 14:15:00,90,5,"This golden beer was exactly what I needed on a sunny day. Its fruity notes were delightful."
+306,206,110,Purchase,2024-02-01 15:00:00,60,4,"The stout beer I tried was rich and flavorful, perfect for a cozy night in."
+307,207,111,Review,2024-02-01 16:00:00,30,3,"The pale ale was okay, but not my favorite. I prefer beers with bolder flavors."
+308,208,112,View,2024-02-01 16:30:00,15,,NULL
+309,209,113,Purchase,2024-02-01 17:00:00,120,5,"This amber beer was fantastic. Its caramel sweetness was just right."
+310,210,114,Review,2024-02-01 18:00:00,90,4,"The wheat beer I tried was quite enjoyable. Its light and crisp flavor was perfect for a summer day."
+311,211,115,View,2024-02-01 19:30:00,60,,NULL
+312,212,116,Purchase,2024-02-01 20:00:00,30,5,"The porter I sampled was amazing. Its rich flavor was exactly what I was craving."
+313,213,117,Review,2024-02-01 20:30:00,15,4,"The IPA I tried had a bold and hoppy flavor that I enjoyed. It was a bit bitter, but still good."
+314,214,118,View,2024-02-01 21:00:00,10,,NULL
+315,215,119,Purchase,2024-02-01 21:15:00,5,5,"This pilsner was incredibly refreshing. Its crisp flavor was perfect."
+316,216,120,Review,2024-02-02 09:00:00,180,4,"The amber ale I sampled was enjoyable. Its caramel notes added a nice touch."
+317,217,121,View,2024-02-02 12:00:00,120,,NULL
+318,218,122,Purchase,2024-02-02 14:00:00,60,5,"This Belgian tripel was exceptional. Its complex flavor profile was truly impressive."
+319,219,123,Review,2024-02-02 16:00:00,30,4,"The hefeweizen I tried was enjoyable. Its fruity flavor was refreshing."
+320,220,124,View,2024-02-02 17:00:00,15,,NULL
+321,221,105,Purchase,2024-02-02 17:15:00,180,5,"This black beer was absolutely delicious. The toasted and slightly bitter flavor really stood out, offering a rich and complex experience that made me want another sip. Definitely one of my favorites to enjoy on a quiet evening."
+322,222,106,Review,2024-02-02 20:00:00,120,4,"The blonde beer I tried was a pleasant surprise. Its light and refreshing body combined with a subtle hint of hops created a smooth and easy-drinking experience. Perfect for pairing with a light meal or simply enjoying on a sunny afternoon."
+323,223,107,View,2024-02-02 21:30:00,60,,NULL
+324,224,108,View,2024-02-02 22:15:00,30,,NULL
+325,225,109,Purchase,2024-02-02 23:00:00,90,5,"What a refreshing experience! This golden beer was exactly what I needed on a hot day. Its balanced profile of malts and hops provided a smooth and fruity flavor that left me wanting more. Definitely an excellent choice for cooling off."
+326,226,110,Purchase,2024-02-03 00:00:00,60,4,"I thoroughly enjoyed this stout beer. Its rich and robust flavor with hints of chocolate and coffee made each sip a delight. Perfect for savoring on a cozy evening by the fireplace."
+327,227,111,Review,2024-02-03 01:00:00,30,3,"The pale ale I sampled had a crisp and citrusy taste that was quite refreshing. While it wasn't my favorite style of beer, I appreciated its bright and lively flavor profile."
+328,228,112,View,2024-02-03 02:00:00,15,,NULL
+329,229,113,Purchase,2024-02-03 03:00:00,120,5,"This amber beer was a real treat. Its caramel-like sweetness balanced perfectly with a touch of bitterness, creating a smooth and satisfying drinking experience. Definitely one I'll be coming back to."
+330,230,114,Review,2024-02-03 05:00:00,90,4,"I found this wheat beer to be quite enjoyable. Its light and crisp flavor with hints of citrus made it a refreshing choice for a sunny day. While it may not be the most complex beer, it's certainly one that's easy to drink and enjoy."
+331,231,115,View,2024-02-03 06:30:00,60,,NULL
+332,232,116,Purchase,2024-02-03 08:00:00,30,5,"The porter I tried exceeded my expectations. Its deep and rich flavor with notes of chocolate and caramel was absolutely divine. Truly a masterpiece of brewing."
+333,233,117,Review,2024-02-03 09:00:00,15,4,"I quite enjoyed the IPA I sampled. Its bold and hoppy flavor was complemented by a touch of citrus, creating a well-balanced and flavorful brew. While it may be a bit intense for some, it's definitely worth trying for any beer enthusiast."
+334,234,118,View,2024-02-03 10:00:00,10,,NULL
+335,235,119,Purchase,2024-02-03 11:00:00,5,5,"This pilsner was exactly what I needed. Its clean and crisp flavor profile was incredibly refreshing, making it the perfect choice for a hot summer day. I'll definitely be reaching for this one again."
+336,236,120,Review,2024-02-03 12:00:00,180,4,"The amber ale I tried was quite enjoyable. Its balanced flavor with hints of caramel and malt made for a pleasant drinking experience that I would happily repeat."
+337,237,121,View,2024-02-03 15:00:00,120,,NULL
+338,238,122,Purchase,2024-02-03 17:00:00,60,5,"I was blown away by the complexity of this Belgian tripel. Its rich and fruity flavor profile with notes of spice and yeast was truly exceptional. Definitely a beer worth savoring."
+339,239,123,Review,2024-02-03 19:00:00,30,4,"The hefeweizen I tried was quite enjoyable. Its light and refreshing flavor with hints of banana and clove made for a pleasant drinking experience. While it may not be the most complex beer, it's certainly one that's easy to enjoy."
+340,240,124,View,2024-02-03 20:00:00,15,,NULL
+341,241,105,Purchase,2024-02-03 21:00:00,180,5,"This black beer was absolutely fantastic. Its bold and roasted flavor profile with hints of chocolate and coffee was incredibly satisfying, making it the perfect choice for a cozy night in."
+342,242,106,Review,2024-02-03 23:00:00,120,4,"The blonde beer I tried was quite enjoyable. Its light and crisp flavor with a hint of sweetness made it an easy choice for a casual afternoon drink. While it may not be the most complex beer, it's certainly one that's easy to enjoy."
+343,243,107,View,2024-02-04 01:00:00,60,,NULL
+344,244,108,View,2024-02-04 02:00:00,30,,NULL
+345,245,109,Purchase,2024-02-04 03:00:00,90,5,"This golden beer was absolutely delicious. Its smooth and refreshing flavor with a hint of citrus made for a delightful drinking experience. Perfect for a sunny day."
+346,246,110,Purchase,2024-02-04 04:00:00,60,4,"I quite enjoyed this stout beer. Its rich and robust flavor with hints of chocolate and coffee was perfect for a cozy evening by the fire. Definitely one I'll be reaching for again."
+347,247,111,Review,2024-02-04 05:00:00,30,3,"The pale ale I tried had a nice balance of malt and hops, but it lacked the bold flavor I typically enjoy in a beer. While it was pleasant enough, it didn't leave a lasting impression."
+348,248,112,View,2024-02-04 06:00:00,15,,NULL
+349,249,113,Purchase,2024-02-04 07:00:00,120,5,"This amber beer was absolutely fantastic. Its rich and malty flavor with hints of caramel and spice was truly exceptional. Definitely one of the best beers I've ever had."
+350,250,114,Review,2024-02-04 08:00:00,90,4,"The wheat beer I tried was quite enjoyable. Its light and refreshing flavor with hints of citrus made for a pleasant drinking experience. While it may not be the most complex beer, it's certainly one that's easy to enjoy."
+351,172,68,Purchase,2024-05-10 18:05:00,180,4,"Really enjoyed the 3 Cordilleras Blanca. Light and refreshing."
+352,173,90,View,2024-05-10 19:00:00,60,,,null
+353,174,72,Purchase,2024-05-11 20:10:00,150,5,"BBC Monserrate Lager is perfect for a chill evening."
+354,175,74,Purchase,2024-05-11 21:15:00,120,3,"A bit too light for my taste but still a decent Lager."
+355,176,69,Purchase,2024-05-12 18:30:00,180,4,"Love the richness of 3 Cordilleras Mulata. Great dark beer."
+356,177,90,View,2024-05-12 19:40:00,60,,,null
+357,178,70,Purchase,2024-05-13 20:20:00,150,5,"3 Cordilleras Negra Stout is incredibly robust and flavorful."
+358,179,72,View,2024-05-13 21:30:00,120,,,null
+359,180,91,Purchase,2024-05-14 18:00:00,180,5,"Heineken: Smooth, consistent lager with a global presence."
+360,181,92,View,2024-05-14 19:05:00,60,,,null
+361,182,93,Purchase,2024-05-15 20:15:00,150,4,"Corona: Light, with a lime wedge, it's the perfect summer beer."
+362,183,94,Purchase,2024-05-15 21:20:00,120,3,"Guinness Draught: Rich and creamy stout, a classic choice."
+363,184,95,View,2024-05-16 18:35:00,60,,,null
+364,185,96,Purchase,2024-05-16 19:45:00,180,5,"Stella Artois: Crisp and slightly malty, a refined lager."
+365,186,97,View,2024-05-17 20:55:00,120,,,null
+366,187,98,Purchase,2024-05-17 22:00:00,150,4,"Modelo Especial: A pilsner-style lager, great with Mexican cuisine."
+367,188,99,View,2024-05-18 18:10:00,60,,,null
+368,189,100,Purchase,2024-05-18 19:20:00,180,5,"Sierra Nevada Pale Ale: A pioneering craft beer, hoppy and balanced."
+369,190,101,View,2024-05-19 20:30:00,120,,,null
+370,191,102,Purchase,2024-05-19 21:40:00,150,4,"Pilsner Urquell: The original Pilsner, beautifully balanced."
+371,192,103,Purchase,2024-05-20 18:15:00,180,5,"Bud Light: Light-bodied lager, a favorite for casual drinking."
+372,193,104,View,2024-05-20 19:25:00,60,,,null
+373,194,105,Purchase,2024-05-21 20:35:00,150,3,"Coors Light: Crisp and refreshing, a popular choice."
+374,195,106,View,2024-05-21 21:45:00,120,,,null
+375,196,107,Purchase,2024-05-22 18:55:00,180,4,"Tsingtao: A well-hopped standard lager from China."
+376,197,108,Purchase,2024-05-22 20:00:00,120,5,"Sapporo Premium Beer: A rich lager with a crisp finish."
+377,198,109,View,2024-05-23 18:20:00,60,,,null
+378,199,110,Purchase,2024-05-23 19:30:00,150,4,"Asahi Super Dry: Dry and crisp, with a quick clean finish."
+379,200,111,View,2024-05-24 20:40:00,120,,,null
+380,201,112,Purchase,2024-05-24 21:50:00,180,5,"Beck's: A German pilsner, known for its full-bodied taste."
+381,202,113,Purchase,2024-05-25 18:10:00,150,3,"Hoegaarden: Belgian wheat beer, light with citrus notes."
+382,203,114,View,2024-05-25 19:15:00,60,,,null
+383,204,115,Purchase,2024-05-26 20:25:00,120,4,"Newcastle Brown Ale: A unique blend of malts for a nutty flavor."
+384,205,116,View,2024-05-26 21:35:00,120,,,null
+385,206,117,Purchase,2024-05-27 18:45:00,180,5,"Anchor Steam Beer: A classic craft beer with a rich history."
+386,207,118,Purchase,2024-05-27 19:50:00,150,4,"Blue Moon: A Belgian-style wheat ale, smooth with an orange twist."
+387,208,119,View,2024-05-28 20:05:00,60,,,null
+388,209,120,Purchase,2024-05-28 21:10:00,120,3,"Sam Adams Boston Lager: A well-rounded, complex lager."
+389,210,121,View,2024-05-29 18:30:00,60,,,null
+390,211,122,Purchase,2024-05-29 19:40:00,150,5,"Leffe Blonde: A traditional Belgian Abbey beer, full of flavor."
+391,212,123,View,2024-05-30 20:50:00,120,,,null
+392,213,124,Purchase,2024-05-30 21:55:00,180,4,"Warsteiner: A German Pilsener, crisp and golden."
+393,214,125,Purchase,2024-05-31 18:15:00,150,3,"Smithwick's: An Irish red ale, balanced and slightly bitter."
+394,215,126,View,2024-05-31 19:20:00,60,,,null
+395,173,115,Purchase,2024-06-04 18:00:00,180,4,"The spices and fruits in Vikingos Hidromiel Clasica add an intriguing layer."
+396,174,116,View,2024-06-04 18:30:00,60,,,null
+397,173,117,Purchase,2024-06-05 19:00:00,180,5,
+398,175,118,View,2024-06-05 19:30:00,60,,,null
+399,176,119,Purchase,2024-06-06 20:00:00,180,3,
+400,174,120,Purchase,2024-06-06 20:30:00,180,5,
+401,175,121,Purchase,2024-06-07 21:00:00,180,4,
+402,177,122,Purchase,2024-06-07 21:30:00,180,5,"The ginger in Escandinava OL adds a spicy kick that's quite enjoyable."
+403,176,123,Purchase,2024-06-08 22:00:00,180,4,
+404,178,124,View,2024-06-08 22:30:00,60,,,null
+405,179,125,Purchase,2024-06-09 18:00:00,180,4,
+406,180,126,Purchase,2024-06-09 18:30:00,180,5,"Sunshine Nectar is like summer in a glass. The orange blossom honey is a standout."
+407,179,127,Purchase,2024-06-10 19:00:00,180,4,
+408,181,128,Purchase,2024-06-10 19:30:00,180,5,
+409,182,129,Purchase,2024-06-11 20:00:00,180,4,
+410,183,130,View,2024-06-11 20:30:00,60,,,null
+411,182,131,Purchase,2024-06-12 21:00:00,180,5,
+412,184,132,Purchase,2024-06-12 21:30:00,180,4,
+413,185,133,View,2024-06-13 22:00:00,60,,,null
+414,186,134,Purchase,2024-06-13 22:30:00,180,5,
+415,187,135,Purchase,2024-06-14 18:00:00,180,3,
+416,188,136,View,2024-06-14 18:30:00,60,,,null
+417,189,137,Purchase,2024-06-15 19:00:00,180,4,
+418,190,138,Purchase,2024-06-15 19:30:00,180,3,
+419,191,139,View,2024-06-16 20:00:00,60,,,null
+420,192,140,Purchase,2024-06-16 20:30:00,180,5,
+421,193,141,Purchase,2024-06-17 21:00:00,180,4,
+422,194,142,View,2024-06-17 21:30:00,60,,,null
+423,195,143,Purchase,2024-06-18 22:00:00,180,4,
+424,196,144,Purchase,2024-06-18 22:30:00,180,3,
+425,197,145,View,2024-06-19 18:00:00,60,,,null
+426,198,146,Purchase,2024-06-19 18:30:00,180,5,
+427,199,147,Purchase,2024-06-20 19:00:00,180,4,
+428,200,148,View,2024-06-20 19:30:00,60,,,null
+429,201,149,Purchase,2024-06-21 20:00:00,180,3,
+430,202,150,Purchase,2024-06-21 20:30:00,180,5,
+431,203,151,View,2024-06-22 21:00:00,60,,,null
+432,204,152,Purchase,2024-06-22 21:30:00,180,4,
+433,205,153,Purchase,2024-06-23 22:00:00,180,5,
+434,206,154,View,2024-06-23 22:30:00,60,,,null
+435,207,155,Purchase,2024-06-24 18:00:00,180,4,
+436,208,156,Purchase,2024-06-24 18:30:00,180,3,
+437,209,157,View,2024-06-25 19:00:00,60,,,null
+438,210,158,Purchase,2024-06-25 19:30:00,180,5,
+439,211,159,Purchase,2024-06-26 20:00:00,180,4,
+440,212,160,Purchase,2024-06-26 20:30:00,180,5,
+441,213,161,View,2024-06-27 21:00:00,60,,,null
+442,214,162,Purchase,2024-06-27 21:30:00,180,4,
+443,215,163,Purchase,2024-06-28 22:00:00,180,5,
+444,216,164,View,2024-06-28 22:30:00,60,,,null
+445,216,115,Purchase,2024-06-01 09:00:00,180,5,
+446,217,116,Purchase,2024-06-01 09:30:00,120,4,"Vikingos Hidromiel Uva's grape flavor is a nice twist."
+447,216,117,Purchase,2024-06-02 10:00:00,180,4,
+448,218,118,Purchase,2024-06-02 10:30:00,150,5,"Loved the berry notes in Vikingos Hidromiel Frutos Rojos."
+449,217,119,Purchase,2024-06-03 11:00:00,180,3,
+450,219,120,Purchase,2024-06-03 11:30:00,120,5,"The passion fruit in Escandinava Drakaars is amazing."
+451,218,121,Purchase,2024-06-04 12:00:00,180,4,
+452,220,122,Purchase,2024-06-04 12:30:00,150,3,"Escandinava Valhalla's coffee flavor was stronger than expected."
+453,219,123,View,2024-06-05 13:00:00,60,,,null
+454,221,124,Purchase,2024-06-05 13:30:00,180,5,"Dansk Mjød Viking Blod has a great complexity."
+455,220,125,View,2024-06-06 14:00:00,60,,,null
+456,222,126,Purchase,2024-06-06 14:30:00,120,4,"Sunshine Nectar is perfectly sweet and citrusy."
+457,221,127,Purchase,2024-06-07 15:00:00,180,5,
+458,223,128,Purchase,2024-06-07 15:30:00,150,4,"Kurt's Apple Pie tastes just like the real thing."
+459,222,129,View,2024-06-08 16:00:00,60,,,null
+460,224,130,Purchase,2024-06-08 16:30:00,180,5,"Blueberry Spaceship Box is refreshingly sweet."
+461,223,131,View,2024-06-09 17:00:00,60,,,null
+462,225,132,Purchase,2024-06-09 17:30:00,120,4,"Hawaiian Lehua Blossom has a unique floral taste."
+463,224,133,Purchase,2024-06-10 18:00:00,180,3,
+464,226,134,Purchase,2024-06-10 18:30:00,150,5,"Heineken's consistency is why it's a go-to beer."
+465,225,135,View,2024-06-11 19:00:00,60,,,null
+466,227,136,Purchase,2024-06-11 19:30:00,120,4,"Guinness Draught's creaminess is unmatched."
+467,226,137,View,2024-06-12 20:00:00,60,,,null
+468,228,138,Purchase,2024-06-12 20:30:00,180,5,"Coors Light is the perfect light beer for any occasion."
+469,227,139,Purchase,2024-06-13 21:00:00,150,3,
+470,229,140,Purchase,2024-06-13 21:30:00,120,4,"Pilsner Urquell's crisp taste is a classic."
+471,228,141,View,2024-06-14 22:00:00,60,,,null
+472,230,142,Purchase,2024-06-14 22:30:00,180,5,"Sierra Nevada Pale Ale's hoppy flavor is excellent."
+473,229,143,Purchase,2024-06-15 23:00:00,150,4,
+474,231,144,View,2024-06-15 23:30:00,60,,,null
+475,230,145,Purchase,2024-06-16 24:00:00,180,3,"Dos Equis Amber Lager's smoothness is great for an evening."
+476,232,146,Purchase,2024-06-16 24:30:00,120,5,"Modelo Especial's clean taste pairs well with meals."
+477,231,147,View,2024-06-17 01:00:00,60,,,null
+478,233,148,Purchase,2024-06-17 01:30:00,180,4,"Sapporo Premium Beer's crisp flavor is refreshingly good."
+479,232,149,Purchase,2024-06-18 02:00:00,150,3,
+480,234,150,Purchase,2024-06-18 02:30:00,120,5,"Peroni Nastro Azzurro is refreshingly crisp and light."
+481,233,151,View,2024-06-19 03:00:00,60,,,null
+482,235,152,Purchase,2024-06-19 03:30:00,180,4,"Red Stripe Lager's light taste is perfect for relaxation."
+483,234,153,Purchase,2024-06-20 04:00:00,150,5,"Asahi Super Dry's dryness is uniquely satisfying."
+484,236,154,View,2024-06-20 04:30:00,60,,,null
